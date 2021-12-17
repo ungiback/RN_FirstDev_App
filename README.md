@@ -7,7 +7,7 @@
 #
 
 ##  
-![Screenshot_1639719572](https://user-images.githubusercontent.com/38012855/146497895-69cc8c3f-5e9c-4bbd-9e42-3bb1fd6e2d77.png)
+<img src="https://user-images.githubusercontent.com/38012855/146497895-69cc8c3f-5e9c-4bbd-9e42-3bb1fd6e2d77.png" width="150" height="300"/>
 
 
 #### API : https://www.data.go.kr/data/3068846/openapi.do
