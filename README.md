@@ -31,7 +31,8 @@ __아쉬운점__
  EUR 기준 다른 나라 (KRK,USD,JPY)환율 정보를 가져와 계산하는 기능을 구현 해봤다.
  
 ## 2. My 화면 
+<p float="left">
 <img src="https://user-images.githubusercontent.com/38012855/146504915-3757776d-3fdf-4eb7-8190-4e1654d4dbad.jpg" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/38012855/146504472-45789eb6-6307-49c6-9d2d-3f73a5cccf07.jpg" width="200" height="400"/>
-
+<p/>
 hooks를 연습해보기 위한 custom페이지 이다 
