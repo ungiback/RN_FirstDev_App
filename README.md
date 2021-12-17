@@ -15,10 +15,7 @@
 
 ## 2. Exchange 화면 
  <img src="https://user-images.githubusercontent.com/38012855/146497895-69cc8c3f-5e9c-4bbd-9e42-3bb1fd6e2d77.png" width="200" height="400"/>
- <img src="https://user-images.githubusercontent.com/38012855/146497895-69cc8c3f-5e9c-4bbd-9e42-3bb1fd6e2d77.png" width="200" height="400"/>
-
- > API : https://exchangeratesapi.io/
- 
+ <img src="https://user-images.githubusercontent.com/38012855/146504439-a627bce3-6048-41db-bad5-42e22004efca.png" width="200" height="400"/>
 
 <br>
 
@@ -34,6 +31,6 @@ __아쉬운점__
  
 ## 2. My 화면 
 
-<img src="https://user-images.githubusercontent.com/38012855/146497895-69cc8c3f-5e9c-4bbd-9e42-3bb1fd6e2d77.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/38012855/146504472-45789eb6-6307-49c6-9d2d-3f73a5cccf07.jpg" width="200" height="400"/>
 
 hooks를 연습해보기 위한 custom페이지 이다 
