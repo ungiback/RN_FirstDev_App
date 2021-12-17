@@ -14,9 +14,10 @@
 > API : https://www.data.go.kr/data/3068846/openapi.do
 
 ## 2. Exchange 화면 
+<p float="left">
  <img src="https://user-images.githubusercontent.com/38012855/146504867-4892e451-e6e7-40e0-964b-3c94e1b20f66.png" width="200" height="400"/>
  <img src="https://user-images.githubusercontent.com/38012855/146504439-a627bce3-6048-41db-bad5-42e22004efca.png" width="200" height="400"/>
-
+<p/>
 <br>
 
 __아쉬운점__
