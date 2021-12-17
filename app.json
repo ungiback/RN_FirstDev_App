@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Exchange_App",
-    "slug": "Exchange_App",
+    "name": "RN_FirstDev_App",
+    "slug": "rnfda",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/ungiback/RN_FirstDev_App.git"
   }
 }

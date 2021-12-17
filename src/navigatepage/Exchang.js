@@ -27,10 +27,10 @@ const Exchange = () => {
         // setRates(data.rates)
     }, [])
 
-    useMemo(() => {
+    useEffect(() => {
         setText()
         setResult((0).toFixed(2))
-    }, [selectedcurrency,isFocused])
+    }, [selectedcurrency, isFocused])
 
     const today = new Date()
     const realtimeChange = (text) => {
@@ -46,7 +46,10 @@ const Exchange = () => {
         <SafeAreaView style={{ ...styles.container, backgroundColor: theme.background }}>
             <TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
                 <View style={{ alignItems: 'center' }}>
-                    <Text style={{ fontSize: 30, paddingBottom: 10, color: theme.textColor }}>{`Today: ${today.toISOString().split("T")[0]}`}</Text>
+                    <Text style={{ fontSize: 30, paddingBottom: 10, color: theme.textColor }}>
+                        {/* {`Today: ${today.toISOString().split("T")[0]}`} */}
+                        Calculator
+                        </Text>
                     <View style={{ width: width - 30, paddingBottom: 40 }}>
                         <Picker
                             selectedValue={selectedcurrency.from}
